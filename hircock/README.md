@@ -14,7 +14,7 @@ Very rough sketch of possible useful positioning for fusion-breeding use <p>
 The biggest downside is that it would require a complete redesign/replacement of the hip in order to open up the mons for penitration from the inside.<br>
 Rough idea<br>
 
-<img src="https://github.com/katjap/SelfProject/blob/f6142ef4109701acf207df3f1aa2f33b8bc60d6b/hircock/hip.png" width="480"><br>
+<img src="https://github.com/katjap/SelfProject/blob/78d0ebe54ad4c23cefc14b47796e5cd625e602de/hircock/hip.png" width="480"><br>
 
 
 
